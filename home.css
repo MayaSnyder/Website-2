@@ -1,0 +1,52 @@
+.main-heading {
+  font-family: 'Pattaya', sans-serif;
+  color:#1979D2 ;
+  font-size: 110px;
+  border: 20px solid #1979D2;
+  padding: 10px;
+  text-align: center;
+  background-color: 
+}
+body {
+  background-color: #424242;
+}
+
+ul.task-bar {
+  font-family: 'Cormorant Infant', serif;
+  padding: 0;
+  text-align: center;
+  margin:0;
+  white-space:nowrap;
+}
+
+.task-bar li{
+ border-radius: 10px;
+   display: inline-block;
+  color: white;
+   border: 5px solid #1979D2;
+  word-spacing:12px
+  list style type: none;
+  padding: 10px;
+  font-size: 56px;
+  text-align:center;
+  position: relative;
+}
+.horses {
+ padding-top:50px;
+ width: 1000px;
+ height:500px;
+}
+
+.quote {
+   text-align: center;
+   padding-top: 10px;
+   font-family: 'Pattaya', sans-serif;
+   color: white;
+   font-size: 80px
+  
+   
+}
+
+  .horsewearingshoes {
+   
+}

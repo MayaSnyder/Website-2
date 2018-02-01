@@ -1,0 +1,31 @@
+.contactus{
+ font-family: 'Pattaya', sans-serif;
+  color:#1979D2 ;
+  font-size: 110px;
+   
+}
+
+body {
+  background-color: #424242;
+}
+
+ul.task-bar {
+  font-family: font-family: 'Cormorant Infant', serif;
+  padding: 0;
+  text-align: center;
+  margin:0;
+  white-space:nowrap;
+}
+
+.task-bar li{
+ border-radius: 10px;
+   display: inline-block;
+  color: white;
+   border: 5px solid #1979D2;
+  word-spacing:12px
+  list style type: none;
+  padding: 10px;
+  font-size: 56px;
+  text-align:center;
+  position: relative;
+}
